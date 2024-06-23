@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "郧阳中学食用指南"
   text: "郧中学子的校园生活百科书"
-  tagline: My great project tagline
+  tagline: 欢迎来到本站，在这里，你可以了解到郧阳中学的许多～(站长绝赞撰文中)
   actions:
     - theme: brand
       text: Markdown Examples
@@ -16,7 +16,7 @@ hero:
 
 features:
   - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing eli
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
