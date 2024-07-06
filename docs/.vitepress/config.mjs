@@ -15,7 +15,7 @@ export default defineConfig({
       {
         text: '初入校园',
         items: [
-          { text: '入校指南', link: '/freshman/when-u-start-ur-yyhs-journey' }
+          { text: '交通', link: '/freshman/traffic' }
         ]
       },
       {
