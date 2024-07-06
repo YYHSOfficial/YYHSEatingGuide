@@ -5,14 +5,14 @@ layout: home
 hero:
   name: "郧阳中学食用指南"
   text: "郧中学子的校园内外百科书"
-  tagline: My great project tagline
+  tagline: 为进入郧阳中学的各位提供的指南书
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 网站概览
+      link: /intro
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 初入校园
+      link: /junior
 
 features:
   - title: Feature A
