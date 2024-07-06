@@ -21,7 +21,7 @@ export default defineConfig({
       {
         text: '日常生活',
         items: [
-          { text: 'Coming Soon', link: '/dailylife/comingsoon' }
+          { text: '公交卡办理', link: '/dailylife/transportpass' }
         ]
       },
       {
