@@ -3,7 +3,6 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "郧阳中学食用指南",
-  base: '/YYHSEatingGuide/',
   description: "郧中学子的校园内外百科书",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
