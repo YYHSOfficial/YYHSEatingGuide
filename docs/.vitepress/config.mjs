@@ -15,7 +15,8 @@ export default defineConfig({
       {
         text: '初入校园',
         items: [
-          { text: '交通', link: '/freshman/traffic' }
+          { text: '交通', link: '/freshman/traffic' },
+          { text: '住校生入学', link: '/freshman/boarding-starter' }
         ]
       },
       {
