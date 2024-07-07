@@ -16,6 +16,7 @@ export default defineConfig({
         text: '初入校园',
         items: [
           { text: '交通', link: '/freshman/traffic' },
+          { text: '通用入学指南', link: '/freshman/normal-starter' },
           { text: '住校生入学', link: '/freshman/boarding-starter' }
         ]
       },
@@ -51,10 +52,16 @@ export default defineConfig({
           { text: 'Coming Soon', link: '/comment/comingsoon' }
         ]
       },
+      {
+        text: '创意园地',
+        items: [
+          { text: 'Coming Soon', link: '/tron/comingsoon' }
+        ]
+      },
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/YYHSOfficial/YYHSEatingGuide' }
     ]
   }
 })
