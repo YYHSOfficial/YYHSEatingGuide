@@ -40,7 +40,9 @@ export default defineConfig({
       {
         text: '友情链接',
         items: [
-          { text: 'Coming Soon', link: '/link/comingsoon' }
+          { text: '其它郧阳中学公共信息账号', link: '/links/link' },
+          { text: '郧阳中学官方网站', link: 'http://yyzx.shiyan.gov.cn/' },
+          { text: '真·友情链接', link: '/links/unofficial-link' }
         ]
       },
       {
