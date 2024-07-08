@@ -12,7 +12,7 @@ hero:
       link: /intro
     - theme: alt
       text: 初入校园
-      link: /junior
+      link: /freshman/traffic
 
 features:
   - title: Feature A
