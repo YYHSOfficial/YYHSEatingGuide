@@ -11,7 +11,7 @@
 
 # 关于投稿与网站建设
 
-本站接受投稿及内容勘误修改，方式暂时仅包括向本站[GitHub仓库](https://www.github.com/YYHSOfficial/YYHSEatingGuide)提出issue,向电子邮箱<zqnmsl.@proton.me>发送邮件，如果您想投稿，请向邮箱发送Markdown格式的文档，语法参照[Markdown官方教程]([Markdown 官方教程](https://markdown.com.cn/))，可以署上您的昵称，如果不署名默认按照匿名处理。
+本站接受投稿及内容勘误修改，方式暂时仅包括向本站[GitHub仓库](https://www.github.com/YYHSOfficial/YYHSEatingGuide)提出issue,向电子邮箱<zqnmsl@proton.me>发送邮件，如果您想投稿，请向邮箱发送Markdown格式的文档，语法参照[Markdown官方教程]([Markdown 官方教程](https://markdown.com.cn/))，可以署上您的昵称，如果不署名默认按照匿名处理。
 
 
 
