@@ -29,7 +29,8 @@ export default defineConfig({
           { text: '宿舍指南', link: '/dailylife/boarding-advance'},
           { text: '社团', link: '/dailylife/club'},
           { text: '学校作息', link: '/dailylife/routine'},
-          { text: '校内购物', link: '/dailylife/bookandstore'}
+          { text: '校内购物', link: '/dailylife/bookandstore'},
+          { text: '校纪校规', link: '/dailylife/schoolrules'}
         ]
       },
       {
