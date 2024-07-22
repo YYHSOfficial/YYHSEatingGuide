@@ -11,6 +11,7 @@
   "dependencies": {
     "busuanzi.pure.js": "^1.0.3",
     "oh-my-live2d": "^0.19.3",
-    "vitepress-plugin-comment-with-giscus": "^1.1.15"
+    "vitepress-plugin-comment-with-giscus": "^1.1.15",
+    "vitepress-plugin-pagefind pagefind": "^0.4.9"
   }
 }
