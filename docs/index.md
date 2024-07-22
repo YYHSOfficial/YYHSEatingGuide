@@ -13,7 +13,7 @@ hero:
     - theme: alt
       text: 初入校园
       link: /freshman/traffic
-      - theme: alt
+    - theme: alt
       text: 鸣谢
       link: /donate-and-manythanks
 
