@@ -66,7 +66,7 @@ export default defineConfig({
       {
         text: '留言板',
         items: [
-          { text: 'Coming Soon', link: '/comment/comingsoon' }
+          { text: '留言板', link: '/comment' }
         ]
       },
       {
