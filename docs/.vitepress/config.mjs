@@ -52,7 +52,16 @@ export default defineConfig({
       {
         text: '良师益友',
         items: [
-          { text: 'Coming Soon', link: '/sensei/comingsoon' }
+          { text: '免责声明', link: '/sensei/duty-free' },
+          { text: '语文老师', link: '/sensei/chinese' },
+          { text: '数学老师', link: '/sensei/math' },
+          { text: '英语老师', link: '/sensei/english' },
+          { text: '物理老师', link: '/sensei/physics' },
+          { text: '化学老师', link: '/sensei/chemistry' },
+          { text: '生物老师', link: '/sensei/biology' },
+          { text: '历史老师', link: '/sensei/history' },
+          { text: '政治老师', link: '/sensei/politics' },
+          { text: '地理老师', link: '/sensei/geography' },
         ]
       },
       {
