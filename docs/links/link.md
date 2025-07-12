@@ -6,7 +6,7 @@
 
 ### 25级中考招生咨询群
 本群因为性质存活时间大概较短，请注意是否解散，并提供相关动态。
-![中考招生咨询QQ群](./enrollment-consultation_group.png)
+![中考招生咨询QQ群](./enrollment-consultation_group.jpeg)
 
 ## 抖音
 抖音上有一些老师运营的官方账号。这些是本人了解到的，欢迎补充其他老师的公众账号
