@@ -16,7 +16,7 @@
 
 
 
-本站为个人运营，搭载于GitHub Pages及Cloudflare Pages（仍在配置中）上，没有服务器成本，但域名仍然需要付费。如果您有意愿，可向[爱发电](https://afdian.net/a/yyhsofficial)捐献，提供一点小小的帮助，不胜感激喵
+本站为个人运营，搭载于GitHub Pages及Cloudflare Pages（仍在配置中）上，没有服务器成本，但域名仍然需要付费。如果您有意愿，可向[爱发电](https://afdian.com/a/yyhsofficial)捐献，提供一点小小的帮助，不胜感激喵
 
 
 
