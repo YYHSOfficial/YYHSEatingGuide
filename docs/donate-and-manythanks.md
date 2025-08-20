@@ -4,7 +4,7 @@
 
 ## 捐赠渠道
 
-[爱发电](https://ifdian.net/a/yyhsofficial)
+[爱发电](https://afdian.com/a/yyhsofficial)
 
 因为各种平台的付款码过于私人化，为了能够在此表达感谢并避免不必要的麻烦，故不展示。
 
